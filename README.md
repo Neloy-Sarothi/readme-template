@@ -77,7 +77,7 @@ https://www.youtube.com/watch?v=bl0-DTgh-mw&list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4
 
 ### image syntax
 <!-- ![alt text](./images/Neloy.jpg) -->
-<img src="./images/Neloy.JPG" title="profile image"/>
+<img src="./images/Neloy.JPG" width="400" title="profile image"/>
 
 
 ### table syntax
